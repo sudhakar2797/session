@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "phoneix"
+    }
+  },
+  "defaultProject": "phoneix",
+  "cli": {
+    "analytics": "03c93cd6-ac27-475c-bde7-3507e0e44bee"
+  }
 }
